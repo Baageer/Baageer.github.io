@@ -6,6 +6,8 @@ categories:
 tags:
 ---
 
+> 新建博客。
+
 ### MobileNet
 
 MobileNet提出了depth-wise separable convolutions的卷积结构来构建轻量的网络结构和两个全局参数来控制网络的大小。MobileNet对于机器性能和精确度做出折中，让神经网络可以更好的在移动设备和嵌入式设备上更好的运行。
